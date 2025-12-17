@@ -32,7 +32,7 @@ Python, NumPy, Pandas, yfinance, Plotly
 
 ## 🚀 Run Instructions
 ```bash
-git clone https://github.com/your-username/MultiMethod-VaR-Engine.git
+git clone https://github.com/mankoyyy/MultiMethod-VaR-Engine.git
 cd MultiMethod-VaR-Engine
 pip install -r requirements.txt
 python Multi_Method_VaR_Engine.ipynb
